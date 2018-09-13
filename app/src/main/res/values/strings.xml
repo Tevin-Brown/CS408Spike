@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bio_description">
+        I am a Senior at Duke University completing an interdepartmental major in EOS and CS.
+        This app is part of a Spike project for CS 408. If you click the Add 1 button at the bottom of this page,
+        you will increase the number bellow!
+    </string>
+    <string name="add_string">Your number is: </string>
+</resources>
